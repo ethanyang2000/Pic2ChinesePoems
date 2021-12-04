@@ -1,0 +1,8 @@
+pic2poem是最终得封装好的代码，仅需在test文件夹中加入照片运行后就可生成诗
+ImageCollector是爬虫代码
+PreProcess是对诗句预处理代码
+图片数据集和诗句数据集过大，未提交
+ResNet是图片分类器的训练代码
+poem_generator是诗句生成器的训练代码
+其余.npy和.pt文件分别为整理过的图片-诗名对应文件和模型文件
+
